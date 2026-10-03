@@ -4,10 +4,7 @@ slug: roe-roa-roi-roic
 images:
   - /media/investiments.jpeg
 date: 2022-06-18T22:55:47.930Z
-description: "Você já deve ter ouvido falar nessas siglas: ROE, ROA, ROI e ROIC.
-  Mas afinal, o que significa cada uma delas? Para que servem? Onde vivem? Do
-  que se alimentam? Sexta, no globo reporter!! Brincadeiras a parte, a ideia
-  deste artigo é explicar cada uma das siglas citando exemplos práticos."
+description: "ROE, ROA, ROI e ROIC: o que significa cada indicador, a fórmula e um exemplo prático de cálculo com dados reais de empresa."
 categories:
   - Finanças
 tags:

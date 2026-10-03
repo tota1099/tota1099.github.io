@@ -4,14 +4,7 @@ slug: hash-vs-criptografia
 images:
   - /media/criptografia.jpg
 date: 2021-02-02T22:05:29.892Z
-description: >-
-  Qual a diferença entre Hash e Criptografia?
-
-
-  Muitas pessoas na área de tecnologia falam sobre esses conceitos, mas muitos não sabem a diferença e suas utilidades.
-
-
-  A ideia do artigo que apresentar os conceitos de forma simples.
+description: "Hash e criptografia não são a mesma coisa. Entenda de forma simples o que é cada um, para que servem e qual a diferença entre eles."
 categories:
   - Tecnologia
 tags:

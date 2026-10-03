@@ -4,15 +4,7 @@ slug: minimalismo
 images:
   - /media/minimalism.jpeg
 date: 2021-02-02T22:11:23.026Z
-description: >-
-  Há alguns anos eu cheguei a conclusão que eu era muito consumista. Possuía
-  mais roupas e coisas do que o necessário.
-
-
-  Me interessei pelo minimalismo e consumi livros e documentários sobre o assunto. 
-
-
-  Hoje venho aqui compartilhar um pouco sobre esta filosofia.
+description: "O que aprendi com o minimalismo: ter só o que é útil ou que você ama, e as práticas que sigo para consumir menos e viver com mais leveza."
 categories:
   - Estilo de vida
 tags:

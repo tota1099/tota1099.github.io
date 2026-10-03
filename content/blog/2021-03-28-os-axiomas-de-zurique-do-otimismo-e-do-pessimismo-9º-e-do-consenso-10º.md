@@ -4,10 +4,7 @@ slug: os-axiomas-de-zurique-9-e-10
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T20:51:21.390Z
-description: Neste post comento sobre o Axioma do Otimismo e do Pessimismo (9º)
-  - Otimismo significa esperar o melhor, mas esperança significa saber como
-  lidará com o pior. Jamais faça uma jogada por otimismo apenas; e do Consenso
-  (10º) - Fuja da opinião da maioria, provavelmente está errada.
+description: "Axiomas de Zurique: o 9º (do otimismo e do pessimismo) e o 10º (do consenso), sobre fugir da opinião da maioria."
 categories:
   - Finanças
 tags:

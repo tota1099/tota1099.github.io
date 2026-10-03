@@ -4,9 +4,7 @@ slug: pl-pvp
 images:
   - /media/investiments.jpeg
 date: 2022-04-16T22:08:28.896Z
-description: Cada vez mais é importante sabermos como analisar uma empresa.
-  Nesta artigo, explico a diferença entre preço lucro e preço pelo valor
-  patrimonial.
+description: "Preço/Lucro (P/L) e Preço/Valor Patrimonial (P/VP): como calcular, como interpretar e um exemplo com dados reais."
 categories:
   - Finanças
 tags:

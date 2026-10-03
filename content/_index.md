@@ -1,5 +1,6 @@
 ---
 title: Renan Porto Blog
+description: "Blog do Renan Porto, Tech Lead e Engenheiro de Software. Tecnologia, finanças e estilo de vida."
 layout: hextra-home
 ---
 

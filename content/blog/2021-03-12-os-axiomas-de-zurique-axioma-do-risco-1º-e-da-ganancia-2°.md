@@ -4,13 +4,7 @@ slug: os-axiomas-de-zurique-1-e-2
 images:
   - /media/investiments.jpeg
 date: 2021-03-12T10:59:51.521Z
-description: >-
-  O livro Os Axiomas de Zurique foi escrito por Max Gunther, é constituído de 12
-  (doze) axiomas principais mais 16 (dezesseis) secundários, que pretendem
-  trazer resposta às dúvidas com as quais o especulador pode se deparar. 
-
-
-  O livro tras táticas usadas pelos banqueiros suíços para obter sucesso no mundo dos negócios.
+description: "Resumo dos Axiomas de Zurique, de Max Gunther: o 1º axioma (do risco) e o 2º (da ganância), com os axiomas menores e exemplos práticos."
 categories:
   - Finanças
 tags:
@@ -23,7 +17,7 @@ tags:
 
 É relatado no livro o exemplo de duas jovens - Mary e Silvia - que possuíam duas visões diferentes. Silvia buscava um investimento seguro e algum rendimento, porém Mary aceitava correr riscos para buscar crescer seu capital significativamente.
 
-Silvia investiu na poupança e Mary em ações. Nos primeiros anos, Mary perdeu um pouco de dinheiro e Silvia manteve o capital. Porém no final das contas, Silvia conseguiu sucesso em seus investimentos e acabou enriquecendo. Já Mary além de não ter ficado rica, corre o risco de não ter dinheiro para uma aposentadoria digna.
+Silvia investiu na poupança e Mary em ações. Nos primeiros anos, Mary perdeu um pouco de dinheiro e Silvia manteve o capital. Porém no final das contas, Mary conseguiu sucesso em seus investimentos e acabou enriquecendo. Já Silvia além de não ter ficado rica, corre o risco de não ter dinheiro para uma aposentadoria digna.
 
 ##### O 1º AXIOMA MENOR
 

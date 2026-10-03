@@ -4,10 +4,7 @@ slug: zurich-axioms-9-and-10
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T20:51:21.390Z
-description: In this post I talk about the Axiom of Optimism and Pessimism (9th)
-  - Optimism means expecting the best, but confidence means knowing how you
-  will handle the worst. Never make a move if you are merely optimistic; and of
-  Consensus (10th) - Disregard the majority opinion. It is probably wrong.
+description: "The Zurich Axioms: the 9th (on optimism and pessimism) and the 10th (on consensus), about disregarding the majority opinion."
 categories:
   - Finance
 tags:

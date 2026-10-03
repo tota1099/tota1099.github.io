@@ -4,10 +4,7 @@ slug: strong-currency
 images:
   - /media/moeda.jpg
 date: 2022-02-25T21:04:03.140Z
-description: A strong currency is one issued by a stable country that manages,
-  over time, to maintain or even increase its value, even during global
-  economic crises. A currency can also be considered strong because it is
-  widely used in trade with other countries.
+description: "What makes a currency strong, examples like the US dollar and the euro, and the advantages of a strong currency for a country's economy."
 categories:
   - Finance
 tags:

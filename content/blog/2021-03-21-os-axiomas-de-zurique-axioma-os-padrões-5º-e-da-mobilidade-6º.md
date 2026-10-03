@@ -4,9 +4,7 @@ slug: os-axiomas-de-zurique-5-e-6
 images:
   - /media/investiments.jpeg
 date: 2021-03-21T19:04:18.988Z
-description: Neste post comento sobre o Axioma dos padrões (5º) -Até começar a
-  parecer ordem, o caos não é perigoso; e da Mobilidade (6º) - Evite criar
-  raizes. Elas dificultam seus movimentos.
+description: "Axiomas de Zurique: o 5º (dos padrões), sobre o caos do mercado, e o 6º (da mobilidade), sobre não criar raízes nos investimentos."
 categories:
   - Finanças
 tags:

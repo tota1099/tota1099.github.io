@@ -4,10 +4,7 @@ slug: zurich-axioms-7-and-8
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T20:28:47.429Z
-description: In this post I talk about the Axiom of Intuition (7th) - A hunch
-  can be trusted only if it can be explained; and of Religion and the Occult
-  (8th) - It is unlikely that God's plan for the universe includes making you
-  rich.
+description: "The Zurich Axioms: the 7th (on intuition), about trusting only hunches you can explain, and the 8th (on religion and the occult)."
 categories:
   - Finance
 tags:

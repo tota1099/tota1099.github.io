@@ -4,15 +4,7 @@ slug: minimalism
 images:
   - /media/minimalism.jpeg
 date: 2021-02-02T22:11:23.026Z
-description: >-
-  A few years ago I came to the conclusion that I was very consumerist. I had
-  more clothes and things than I needed.
-
-
-  I got interested in minimalism and read books and watched documentaries on the subject.
-
-
-  Today I'm here to share a bit about this philosophy.
+description: "What I learned from minimalism: keep only what is useful or what you love, plus the practices I follow to consume less and live lighter."
 categories:
   - Lifestyle
 tags:

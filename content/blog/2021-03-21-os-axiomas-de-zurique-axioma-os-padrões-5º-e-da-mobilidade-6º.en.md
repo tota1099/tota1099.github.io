@@ -4,9 +4,7 @@ slug: zurich-axioms-5-and-6
 images:
   - /media/investiments.jpeg
 date: 2021-03-21T19:04:18.988Z
-description: In this post I talk about the Axiom of Patterns (5th) - Chaos is
-  not dangerous until it begins to look orderly; and of Mobility (6th) - Avoid
-  putting down roots. They impede motion.
+description: "The Zurich Axioms: the 5th (on patterns), about market chaos, and the 6th (on mobility), about not putting down roots in your investments."
 categories:
   - Finance
 tags:

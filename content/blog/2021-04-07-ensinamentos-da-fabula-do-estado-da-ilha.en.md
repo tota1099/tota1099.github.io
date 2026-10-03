@@ -4,10 +4,7 @@ slug: island-state-fable-1
 images:
   - /media/island.jpg
 date: 2021-04-07T00:09:31.214Z
-description: The island state fable is a video series that explains in a simple
-  way how the economy works. Created by José Kobori - one of the biggest
-  references in finance in Brazil - it explains basic economic concepts in a
-  playful way.
+description: "Part 1 of José Kobori's Island State Fable: GDP, taxes, public debt, inflation and exchange rates explained with an island."
 categories:
   - Finance
 tags:

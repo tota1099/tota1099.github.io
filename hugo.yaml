@@ -1,6 +1,10 @@
 baseURL: "https://tota1099.github.io/"
 title: "Renan Porto Blog"
 
+# robots.txt (layouts/robots.txt) e data de atualização dos posts via último commit
+enableRobotsTXT: true
+enableGitInfo: true
+
 # Português na raiz (/), inglês em /en/. Tradução = mesmo arquivo com sufixo .en.md
 defaultContentLanguage: "pt"
 languages:
@@ -56,8 +60,19 @@ menu:
         icon: linkedin
 
 params:
+  description: "Blog do Renan Porto, Tech Lead e Engenheiro de Software. Tecnologia, finanças e estilo de vida."
+  # imagem padrão ao compartilhar links (quando o post não define images)
+  images:
+    - /photo.jpg
   navbar:
     displayTitle: true
+    logo:
+      path: images/logo.svg
+      width: 22
+      height: 22
+  footer:
+    displayPoweredBy: false
+    displayCopyright: true
   theme:
     default: system
     displayToggle: true

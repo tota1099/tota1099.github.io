@@ -4,9 +4,7 @@ slug: roe-roa-roi-roic
 images:
   - /media/investiments.jpeg
 date: 2022-06-18T22:55:47.930Z
-description: "You've probably heard these acronyms: ROE, ROA, ROI and ROIC.
-  But what does each one mean? What are they for? Jokes aside, the goal of
-  this article is to explain each acronym with practical examples."
+description: "ROE, ROA, ROI and ROIC: what each indicator means, its formula and a practical calculation example using real company data."
 categories:
   - Finance
 tags:

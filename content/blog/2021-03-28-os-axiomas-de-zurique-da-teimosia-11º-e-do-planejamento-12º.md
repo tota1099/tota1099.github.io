@@ -4,11 +4,7 @@ slug: os-axiomas-de-zurique-11-e-12
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T22:46:09.927Z
-description: Neste post comento sobre o Axioma da Teimosia (11º) - Se não deu
-  certo da primeira vez, esqueça; e do Planejamento (12º) - Planejamentos a
-  longo prazo geram a perigosa crença de que o futuro está sob controle. É
-  importante jamais levar muito a sério os seus planos a longo prazo, nem os de
-  quem quer que seja.
+description: "Axiomas de Zurique: o 11º (da teimosia) e o 12º (do planejamento), e minha conclusão sobre o livro de Max Gunther."
 categories:
   - Finanças
 tags:

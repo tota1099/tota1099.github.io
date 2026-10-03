@@ -4,9 +4,7 @@ slug: pe-pb
 images:
   - /media/investiments.jpeg
 date: 2022-04-16T22:08:28.896Z
-description: Knowing how to analyze a company is increasingly important. In
-  this article, I explain the difference between price-to-earnings and
-  price-to-book.
+description: "Price-to-Earnings (P/E) and Price-to-Book (P/B): how to calculate them, how to interpret them and an example with real data."
 categories:
   - Finance
 tags:

@@ -4,11 +4,7 @@ slug: zurich-axioms-11-and-12
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T22:46:09.927Z
-description: In this post I talk about the Axiom of Stubbornness (11th) - If it
-  doesn't pay off the first time, forget it; and of Planning (12th) - Long-range
-  plans engender the dangerous belief that the future is under control. It is
-  important never to take your own long-range plans, or other people's,
-  seriously.
+description: "The Zurich Axioms: the 11th (on stubbornness) and the 12th (on planning), plus my takeaways from Max Gunther's book."
 categories:
   - Finance
 tags:

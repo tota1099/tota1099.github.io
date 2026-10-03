@@ -4,11 +4,7 @@ slug: inicio-vida-nomade
 images:
   - /media/img_0638.jpg
 date: 2023-02-19T21:18:09.247Z
-description: >-
-  Trabalho como desenvolvedor de software desde 2014, sendo assim, o trabalho
-  remoto sempre foi algo comum para mim. Também sempre amei viajar.
-
-  Neste post, eu compartilho como em 2023, comecei a viver um sonho: viver como um nômade digital.
+description: "Como começamos um ano vivendo como nômades digitais: o primeiro destino (Curitiba), o que levei na mochila e fotos da viagem."
 categories:
   - Estilo de vida
 tags:
@@ -29,7 +25,7 @@ Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e con
 
 Utilizei 2 mochilas na viagem, sendo 1 mochilão de aproximadamente 50 litros.
 
-<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3-1-.jpg" width="780" alt="Mochilas" >
+<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3-1-.jpg" width="780" loading="lazy" alt="Mochilas" >
 
 **Geral**
 
@@ -74,31 +70,31 @@ Segue abaixo algumas fotos dessa viagem!
 
 #### Bosque do alemão
 
-<img src="/media/img_0638.jpg" width="780" alt="Bosque do alemão" >
+<img src="/media/img_0638.jpg" width="780" loading="lazy" alt="Bosque do alemão" >
 
 - - -
 
 #### Museu Oscar Niemeyer
 
-<img src="/media/img_0601.jpg" width="780" alt="Museu Oscar Niemeyer" >
+<img src="/media/img_0601.jpg" width="780" loading="lazy" alt="Museu Oscar Niemeyer" >
 
 - - -
 
 #### Hotel All You Need
 
-<img src="/media/img_0516.jpg" width="780" alt="Hotel All You Need" >
+<img src="/media/img_0516.jpg" width="780" loading="lazy" alt="Hotel All You Need" >
 
 - - -
 
 #### Complexo Luxor
 
-<img src="/media/img_1132.jpg" width="780" alt="Complexo Luxor" >
+<img src="/media/img_1132.jpg" width="780" loading="lazy" alt="Complexo Luxor" >
 
 - - -
 
 #### Vista Curitiba de cima do Hotel All You Need
 
-<img src="/media/img_0496.jpg" width="780" alt="Vista Curitiba de cima do Hotel All You Need" >
+<img src="/media/img_0496.jpg" width="780" loading="lazy" alt="Vista Curitiba de cima do Hotel All You Need" >
 
 - - -
 

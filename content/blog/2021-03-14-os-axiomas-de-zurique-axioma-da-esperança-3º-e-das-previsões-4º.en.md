@@ -4,9 +4,7 @@ slug: zurich-axioms-3-and-4
 images:
   - /media/esp.jpg
 date: 2021-03-14T04:39:54.864Z
-description: In this post I talk about the Axiom of Hope (3rd) - When the ship
-  starts to sink, don't pray! Jump; and of Forecasts (4th) - Human behavior is
-  unpredictable! Distrust anyone who claims to know the future.
+description: "The Zurich Axioms: the 3rd (on hope), about accepting losses, and the 4th (on forecasts), about distrusting anyone who claims to predict the future."
 categories:
   - Finance
 tags:

@@ -4,10 +4,7 @@ slug: fabula-do-estado-da-ilha-1
 images:
   - /media/island.jpg
 date: 2021-04-07T00:09:31.214Z
-description: A fábula do estado da ilha é uma série de vídeos que explica de
-  forma simples como a economia funciona.  Criada por José Kobori - uma das
-  maiores referências em finanças no Brasil - explica conceitos basicos da
-  economia de uma forma lúdica.
+description: "Parte 1 da Fábula do Estado da Ilha, de José Kobori: PIB, impostos, dívida pública, inflação e câmbio explicados com uma ilha."
 categories:
   - Finanças
 tags:

@@ -4,13 +4,7 @@ slug: zurich-axioms-1-and-2
 images:
   - /media/investiments.jpeg
 date: 2021-03-12T10:59:51.521Z
-description: >-
-  The book The Zurich Axioms was written by Max Gunther and is made up of 12
-  (twelve) major axioms plus 16 (sixteen) minor ones, which aim to answer the
-  doubts a speculator may face.
-
-
-  The book brings tactics used by Swiss bankers to succeed in the business world.
+description: "A summary of Max Gunther's The Zurich Axioms: the 1st axiom (on risk) and the 2nd (on greed), with the minor axioms and practical examples."
 categories:
   - Finance
 tags:
@@ -23,7 +17,7 @@ tags:
 
 The book tells the story of two young women - Mary and Silvia - who had two different views. Silvia looked for a safe investment with some return, while Mary accepted taking risks to try to grow her capital significantly.
 
-Silvia invested in a savings account and Mary in stocks. In the first years, Mary lost some money and Silvia kept her capital. But in the end, Silvia succeeded with her investments and ended up getting rich. Mary, on the other hand, not only didn't get rich, but risks not having enough money for a decent retirement.
+Silvia invested in a savings account and Mary in stocks. In the first years, Mary lost some money and Silvia kept her capital. But in the end, Mary succeeded with her investments and ended up getting rich. Silvia, on the other hand, not only didn't get rich, but risks not having enough money for a decent retirement.
 
 ##### THE 1st MINOR AXIOM
 

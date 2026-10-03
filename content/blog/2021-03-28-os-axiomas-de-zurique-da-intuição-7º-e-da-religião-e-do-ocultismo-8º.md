@@ -4,10 +4,7 @@ slug: os-axiomas-de-zurique-7-e-8
 images:
   - /media/investiments.jpeg
 date: 2021-03-28T20:28:47.429Z
-description: Neste post comento sobre o Axioma da Intiuiçaõ (7º) - Só se pode
-  confiar num palpite que possa ser explicado.; e da Religião e Ocultismo (8º) -
-  É improvável que entre os desígnios de Deus para o Universo se inclua o de
-  você ficar rico.
+description: "Axiomas de Zurique: o 7º (da intuição), sobre só confiar em palpites explicáveis, e o 8º (da religião e do ocultismo)."
 categories:
   - Finanças
 tags:

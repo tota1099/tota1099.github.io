@@ -4,14 +4,7 @@ slug: hash-vs-encryption
 images:
   - /media/criptografia.jpg
 date: 2021-02-02T22:05:29.892Z
-description: >-
-  What's the difference between hashing and encryption?
-
-
-  Many people in tech talk about these concepts, but many don't know the difference or what each one is for.
-
-
-  The goal of this article is to present both concepts in a simple way.
+description: "Hashing and encryption are not the same thing. A simple explanation of what each one is, what it's for and how they differ."
 categories:
   - Technology
 tags:

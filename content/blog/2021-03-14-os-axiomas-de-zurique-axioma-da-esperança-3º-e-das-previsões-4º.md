@@ -4,10 +4,7 @@ slug: os-axiomas-de-zurique-3-e-4
 images:
   - /media/esp.jpg
 date: 2021-03-14T04:39:54.864Z
-description: Neste post comento sobre o Axioma da Esperança (3º) - Quando o
-  barco começar a afundar, não reze! Abandone-o; e das Previsões (4º) - O
-  comportamento humano é imprevisível! Desconfie de quem afirma saber algo sobre
-  o futuro.
+description: "Axiomas de Zurique: o 3º (da esperança), sobre saber aceitar perdas, e o 4º (das previsões), sobre desconfiar de quem diz prever o futuro."
 categories:
   - Finanças
 tags:
