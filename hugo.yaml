@@ -43,16 +43,20 @@ params:
   blog:
     list:
       displayTags: true
-  # Comentários via giscus (GitHub Discussions). Ver README para ativar.
+  # Comentários via giscus (GitHub Discussions)
   comments:
-    enable: false
+    enable: true
     type: giscus
     giscus:
       repo: tota1099/tota1099.github.io
       repoId: R_kgDOUrSSVg
-      category: Comments
-      categoryId: "" # preencher com o valor gerado em https://giscus.app
+      category: Announcements
+      categoryId: DIC_kwDOUrSSVs4DG9Zx
       mapping: pathname
+      strict: 1
+      reactionsEnabled: 1
+      emitMetadata: 0
+      inputPosition: bottom
       lang: pt
 # posts antigos usam HTML (tabelas) dentro do markdown
 markup:

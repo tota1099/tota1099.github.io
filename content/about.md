@@ -1,5 +1,6 @@
 ---
 title: "Sobre"
+comments: false
 ---
 
 Sou **Renan de Medeiros Porto**, Tech Lead e Engenheiro de Software Especialista na [TOTVS](https://www.totvs.com/), morando em São José, Santa Catarina. Trabalho com software desde 2014, hoje principalmente com Ruby on Rails, arquitetura orientada a eventos e pagamentos.
