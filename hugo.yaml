@@ -1,0 +1,61 @@
+baseURL: "https://tota1099.github.io/"
+defaultContentLanguage: "pt"
+locale: "pt-BR"
+title: "Renan Porto"
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+# URLs com data, como /2026/09/25/titulo-do-post/
+permalinks:
+  blog: "/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: Sobre
+      pageRef: /about
+      weight: 2
+    - name: Busca
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/tota1099"
+      params:
+        icon: github
+    - name: LinkedIn
+      weight: 5
+      url: "https://www.linkedin.com/in/renan-de-medeiros-porto"
+      params:
+        icon: linkedin
+
+params:
+  navbar:
+    displayTitle: true
+  theme:
+    default: system
+    displayToggle: true
+  blog:
+    list:
+      displayTags: true
+  # Comentários via giscus (GitHub Discussions). Ver README para ativar.
+  comments:
+    enable: false
+    type: giscus
+    giscus:
+      repo: tota1099/tota1099.github.io
+      repoId: R_kgDOUrSSVg
+      category: Comments
+      categoryId: "" # preencher com o valor gerado em https://giscus.app
+      mapping: pathname
+      lang: pt
+# posts antigos usam HTML (tabelas) dentro do markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

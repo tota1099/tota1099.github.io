@@ -1,0 +1,6 @@
+{{- $n := .Get "count" | default 5 -}}
+<ul>
+{{- range first $n (where site.RegularPages "Section" "blog").ByDate.Reverse }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="hx:opacity-50 hx:text-sm">· {{ .Date.Format "02/01/2006" }}</span></li>
+{{- end }}
+</ul>
