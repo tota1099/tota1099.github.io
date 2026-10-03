@@ -59,6 +59,6 @@ O nosso foco é ganhar dinheiro, e se precisarmos vender aquela ação que tanto
 
 - - -
 
-[Os axiomas de Zurique - Axioma do Risco (1º) e da Ganancia (2°)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-1-e-2)
+[Os axiomas de Zurique - Axioma do Risco (1º) e da Ganancia (2°)](/2021/03/12/os-axiomas-de-zurique-1-e-2/)
 
-[Os axiomas de Zurique - Axioma da Esperança (3º) e das Previsões (4º)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-3-e-4)
+[Os axiomas de Zurique - Axioma da Esperança (3º) e das Previsões (4º)](/2021/03/14/os-axiomas-de-zurique-3-e-4/)

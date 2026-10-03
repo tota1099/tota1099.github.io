@@ -49,12 +49,12 @@ Este livro é essencial para quem está inicialmente nos mundos dos investimento
 
 - - -
 
-[Os axiomas de Zurique - Axioma do Risco (1º) e da Ganancia (2°)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-1-e-2)
+[Os axiomas de Zurique - Axioma do Risco (1º) e da Ganancia (2°)](/2021/03/12/os-axiomas-de-zurique-1-e-2/)
 
-[Os axiomas de Zurique - Axioma da Esperança (3º) e das Previsões (4º)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-3-e-4)
+[Os axiomas de Zurique - Axioma da Esperança (3º) e das Previsões (4º)](/2021/03/14/os-axiomas-de-zurique-3-e-4/)
 
-[Os axiomas de Zurique - Axioma os Padrões (5º) e da Mobilidade (6º)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-5-e-6)
+[Os axiomas de Zurique - Axioma os Padrões (5º) e da Mobilidade (6º)](/2021/03/21/os-axiomas-de-zurique-5-e-6/)
 
-[Os axiomas de Zurique - Da Intuição (7º) e da Religião e do Ocultismo (8º)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-7-e-8)
+[Os axiomas de Zurique - Da Intuição (7º) e da Religião e do Ocultismo (8º)](/2021/03/28/os-axiomas-de-zurique-7-e-8/)
 
-[Os axiomas de Zurique - Axioma do Otimismo e Pessimismo (9º) e do Consenso (10°)](https://www.renanporto.com.br/posts/os-axiomas-de-zurique-9-e-10)
+[Os axiomas de Zurique - Axioma do Otimismo e Pessimismo (9º) e do Consenso (10°)](/2021/03/28/os-axiomas-de-zurique-9-e-10/)

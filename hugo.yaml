@@ -1,7 +1,17 @@
 baseURL: "https://tota1099.github.io/"
-defaultContentLanguage: "pt"
-locale: "pt-BR"
 title: "Renan Porto"
+
+# Português na raiz (/), inglês em /en/. Tradução = mesmo arquivo com sufixo .en.md
+defaultContentLanguage: "pt"
+languages:
+  pt:
+    locale: "pt-BR"
+    label: "Português"
+    weight: 1
+  en:
+    locale: "en-US"
+    label: "English"
+    weight: 2
 
 module:
   imports:
@@ -13,23 +23,30 @@ permalinks:
 
 menu:
   main:
-    - name: Blog
+    # nomes traduzidos em i18n/<idioma>.yaml pelo identifier
+    - identifier: menuBlog
+      name: Blog
       pageRef: /blog
       weight: 1
-    - name: Sobre
+    - identifier: menuAbout
+      name: Sobre
       pageRef: /about
       weight: 2
     - name: Busca
       weight: 3
       params:
         type: search
-    - name: GitHub
+    - name: Idioma
       weight: 4
+      params:
+        type: language-switch
+    - name: GitHub
+      weight: 5
       url: "https://github.com/tota1099"
       params:
         icon: github
     - name: LinkedIn
-      weight: 5
+      weight: 6
       url: "https://www.linkedin.com/in/renan-de-medeiros-porto"
       params:
         icon: linkedin
@@ -43,7 +60,9 @@ params:
   blog:
     list:
       displayTags: true
-  # Comentários via giscus (GitHub Discussions)
+  # Comentários via giscus (GitHub Discussions).
+  # As versões pt/en de um post compartilham a mesma discussão:
+  # ver layouts/_partials/components/giscus.html
   comments:
     enable: true
     type: giscus
@@ -52,12 +71,10 @@ params:
       repoId: R_kgDOUrSSVg
       category: Announcements
       categoryId: DIC_kwDOUrSSVs4DG9Zx
-      mapping: pathname
       strict: 1
       reactionsEnabled: 1
       emitMetadata: 0
       inputPosition: bottom
-      lang: pt
 # posts antigos usam HTML (tabelas) dentro do markdown
 markup:
   goldmark:

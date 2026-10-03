@@ -1,0 +1,7 @@
+{{- /* Indica ao Google as versões pt/en da página */ -}}
+{{- if .IsTranslated }}
+  {{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+  {{- end }}
+<link rel="alternate" hreflang="x-default" href="{{ (index (where .AllTranslations "Lang" hugo.Sites.Default.Language.Lang) 0 | default .).Permalink }}">
+{{- end }}
