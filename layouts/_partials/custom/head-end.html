@@ -1,3 +1,7 @@
+{{- /* Verificação do Google Search Console (propriedade "Prefixo do URL") */}}
+{{- with site.Params.googleSiteVerification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{- end }}
 {{- /* Indica ao Google as versões pt/en da página */ -}}
 {{- if .IsTranslated }}
   {{- range .AllTranslations }}

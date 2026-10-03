@@ -60,6 +60,7 @@ menu:
         icon: linkedin
 
 params:
+  googleSiteVerification: F0gPxk7jaER00rHp4uv71mAa3m-TlHhhLGMoW9tpgMg
   description: "Blog do Renan Porto, Tech Lead e Engenheiro de Software. Tecnologia, finanças e estilo de vida."
   # imagem padrão ao compartilhar links (quando o post não define images)
   images:
