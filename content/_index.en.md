@@ -1,21 +1,16 @@
 ---
-title: Renan Porto
+title: Renan Porto Blog
 layout: hextra-home
 ---
 
-{{< hextra/hero-headline >}}
-  Hi, I'm Renan Porto
-{{< /hextra/hero-headline >}}
-
-{{< hextra/hero-subtitle >}}
-  Tech Lead and Specialist Software Engineer at TOTVS. I write about technology, finance and lifestyle.
-{{< /hextra/hero-subtitle >}}
-
-<div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-button text="Browse archive" link="blog" >}}
-{{< hextra/hero-button text="About me" link="about" style="background: transparent; color: inherit; border: 1px solid currentColor;" >}}
+<div class="home">
+<div class="home-intro">
+  <img src="/photo.jpg" alt="Renan Porto">
+  <div>
+    <h1>Renan Porto</h1>
+    <p>Tech Lead and Specialist Software Engineer at TOTVS, working on payments and Ruby on Rails. I've been building software since 2014, and here I write about technology, finance and lifestyle. <a href="/en/about/">More about me →</a></p>
+  </div>
 </div>
 
-## Recent posts
-
-{{< recent-posts count="5" >}}
+{{< recent-posts count="10" >}}
+</div>

@@ -1,0 +1,15 @@
+/* Home: intro + lista de posts recentes (inspirada em akitaonrails.com) */
+.home { width: 100%; max-width: 48rem; margin: 0 auto; }
+.home-intro { display: flex; gap: 1.5rem; align-items: center; margin-bottom: 2.5rem; }
+.home-intro img { width: 96px; height: 96px; border-radius: 9999px; object-fit: cover; flex-shrink: 0; }
+.home-intro h1 { font-size: 1.875rem; font-weight: 700; line-height: 1.2; margin-bottom: .5rem; }
+.home-intro p { opacity: .8; line-height: 1.6; }
+.home-intro a, .home-more a { text-decoration: underline; text-underline-offset: 2px; }
+.home-month { font-size: 1.125rem; font-weight: 600; margin: 2rem 0 .75rem; padding-bottom: .25rem; border-bottom: 1px solid rgba(127,127,127,.25); text-transform: capitalize; }
+.home-post { margin-bottom: 1rem; }
+.home-post time { opacity: .6; font-variant-numeric: tabular-nums; }
+.home-post > a { font-weight: 500; }
+.home-post > a:hover { text-decoration: underline; }
+.home-post .home-tags { font-size: .875rem; }
+.home-more { margin-top: 2rem; }
+@media (max-width: 640px) { .home-intro { flex-direction: column; align-items: flex-start; } }
