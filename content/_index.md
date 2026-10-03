@@ -12,7 +12,7 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 
 <div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-button text="Ler o blog" link="blog" >}}
+{{< hextra/hero-button text="Ver arquivo" link="blog" >}}
 {{< hextra/hero-button text="Sobre mim" link="about" style="background: transparent; color: inherit; border: 1px solid currentColor;" >}}
 </div>
 

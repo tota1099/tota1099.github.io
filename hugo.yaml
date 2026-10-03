@@ -1,5 +1,5 @@
 baseURL: "https://tota1099.github.io/"
-title: "Renan Porto"
+title: "Renan Porto Blog"
 
 # Português na raiz (/), inglês em /en/. Tradução = mesmo arquivo com sufixo .en.md
 defaultContentLanguage: "pt"
@@ -24,13 +24,13 @@ permalinks:
 menu:
   main:
     # nomes traduzidos em i18n/<idioma>.yaml pelo identifier
-    - identifier: menuBlog
-      name: Blog
-      pageRef: /blog
-      weight: 1
     - identifier: menuAbout
       name: Sobre
       pageRef: /about
+      weight: 1
+    - identifier: menuBlog
+      name: Arquivo
+      pageRef: /blog
       weight: 2
     - name: Busca
       weight: 3
@@ -40,13 +40,17 @@ menu:
       weight: 4
       params:
         type: language-switch
-    - name: GitHub
+    - name: Tema
       weight: 5
+      params:
+        type: theme-toggle
+    - name: GitHub
+      weight: 6
       url: "https://github.com/tota1099"
       params:
         icon: github
     - name: LinkedIn
-      weight: 6
+      weight: 7
       url: "https://www.linkedin.com/in/renan-de-medeiros-porto"
       params:
         icon: linkedin
