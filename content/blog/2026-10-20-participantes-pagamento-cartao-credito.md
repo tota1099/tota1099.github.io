@@ -21,6 +21,37 @@ O objetivo desse artigo é explicar quais os participantes envolvidos em uma com
 
 Uma pessoa quer comprar uma camiseta de futebol do seu time do coração: a seleção brasileira! Como de costume, ela digita no google "Camiseta seleção brasileira" e abre 2 ou 3 abas com as principais lojas com esse produto. Da uma olhada nas fotos, descrições, avaliações dos clientes, frete e preço; e decide comprar o produto na loja 1, que além de mais barata, irá entregar em até 2 dias úteis! A pessoa então clica para comprar, seleciona cartão de crédito como meio de pagamento, preenche seus dados e finaliza a compra! Pronto, em até 2 dias, estará vestindo a camiseta da seleção que tanto queria!
 
+```mermaid
+flowchart LR
+    A["🧑 Cliente"] -->|usa| B["💳 Cartão de crédito"]
+    B -->|paga no| C["🛒 E-commerce"]
+    C -->|repassa o pedido ao| D["🏪 Lojista"]
+    D -->|entrega a camiseta ao| A
+```
 
+Olhando esse processo, parece muito simples e ter envolvimento de somente **3 participantes**: cliente, Lojista e E-commerce.
 
-![Descrição da imagem](/media/minha-foto.jpg)
+Mas como o cliente possui um cartão de crédito? Quem lhe da crédito? Quem lhe entregou o cartão? Quem confeccionou o cartão? Vamos descobrir isso no próximo tópico.
+
+## O cartão de crédito
+
+O cliente utilizou um cartão de crédito para efetuar a compra no e-commerce: mas como o cliente possui um cartão de crédito?
+
+Tudo começa com o emissor, ou seja, quem emite o cartão: um cartão de crédito pode ser emitido por um banco ou por uma instituição de pagamento emissora de instrumento pós-pago.
+
+- Exemplos de bancos são: Banco do Brasil, Santander, Caixa Econômica Federal, Bradesco.
+- Exemplos de Instituições de Pagamento: Mercado Pago, Picpay, Nubank.
+
+Para simplificar, não vou adicionar esses participantes no artigo em detalhes, mas para essas instituições poderem emitir os cartões, dependem de outros participantes como:
+
+- Banco Central: autoriza e supervisiona o emissor.
+- Bandeira (Visa, Mastercard, Elo): licencia o emissor a participar do arranjo de pagamento.
+
+Uma vez que temos o cartão, alguém tem que decidir dar crédito ao cliente. Porém, nesse processo, podemos ter até 4 empresas diferentes:
+
+- Marca do cartão: quem aparece para o cliente. Pode ser uma fintech, um varejista ou o próprio banco.
+- Emissor: a instituição autorizada pelo banco central e licenciada pela bandeira.
+- Credor: a instituição financeira que de fato concede o financiamento ao cliente.
+- Quem financia (funding): de onde vem o dinheiro emprestado. Pode ser o caixa do próprio banco, captação via CDB, etc.
+
+Para esses participantes decidirem dar crédito para uma pessoa, eles fazem uma análise com os órgãos de proteção ao crédito, como o Serasa; e o Sistema de Informações de Créditos (SCR) do banco central, que mostra o endividamento do cliente no sistema financeiro inteiro.
