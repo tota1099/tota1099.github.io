@@ -1,7 +1,7 @@
 ---
 title: "Tempo é atenção: começando um desafio de 30 dias"
 slug: desafio-30-dias-gestao-do-tempo
-date: 2026-10-22T14:30:00-03:00
+date: 2026-10-22T14:00:00-03:00
 description: "O que aprendi numa palestra sobre gestão do tempo na era da IA e como vou fazer o desafio de 30 dias, começando por medir para onde meu tempo vai."
 categories:
   - Organização

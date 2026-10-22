@@ -1,7 +1,7 @@
 ---
 title: "Time is attention: starting a 30-day challenge"
 slug: 30-day-time-management-challenge
-date: 2026-10-22T14:30:00-03:00
+date: 2026-10-22T14:00:00-03:00
 description: "What I learned in a talk about time management in the age of AI, and how I'll do the 30-day challenge, starting by measuring where my time goes."
 categories:
   - Organization
