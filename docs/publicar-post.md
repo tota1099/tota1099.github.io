@@ -59,7 +59,7 @@ O post fica em `https://tota1099.github.io/AAAA/MM/DD/<slug>/`, com o ano, o mê
 | `slug` | sim | parte final da URL: minúsculas, sem acento, palavras separadas por `-` |
 | `date` | sim | data de publicação. **Uma data no futuro não é publicada** até um deploy depois dessa data |
 | `description` | recomendado | até cerca de 160 caracteres, em uma linha só |
-| `categories` | sim | use uma das existentes: **Tecnologia**, **Finanças** ou **Estilo de vida** (em inglês: Technology, Finance, Lifestyle) |
+| `categories` | sim | use uma das existentes: **Tecnologia**, **Finanças**, **Estilo de vida** ou **Organização** (em inglês: Technology, Finance, Lifestyle, Organization) |
 | `tags` | recomendado | minúsculas, com `-` no lugar de espaço. Reaproveite tags que já existem (veja `/tags/`) |
 | `images` | não | imagem da prévia em redes sociais. Sem ela, é usada a sua foto |
 | `draft` | não | `true` esconde o post do site |
